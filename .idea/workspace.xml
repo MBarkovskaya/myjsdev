@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dbc5ba9-da1b-4e30-a9f8-055ddd26320f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/project/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project/project.js" afterDir="false" />
+    <list default="true" id="3dbc5ba9-da1b-4e30-a9f8-055ddd26320f" name="Default Changelist" comment="smth">
+      <change afterPath="$PROJECT_DIR$/project/js/project.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/project/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,28 +61,59 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.webOptions" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project/js" />
       <recent name="$PROJECT_DIR$/project" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/myjsdev/project/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="proj" type="NodeJSConfigurationType" temporary="true" path-to-js-file="$PROJECT_DIR$/project/js/project.js" working-dir="$PROJECT_DIR$/project">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="Node.js.proj" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.proj" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -72,25 +123,90 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603365998104</updated>
-      <workItem from="1603365999652" duration="1942000" />
+      <workItem from="1603365999652" duration="4684000" />
+      <workItem from="1603371606304" duration="299000" />
     </task>
+    <task id="LOCAL-00001" summary="smth">
+      <created>1603368932667</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603368932667</updated>
+    </task>
+    <task id="LOCAL-00002" summary="gitignore file commit">
+      <created>1603371902951</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603371902951</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="smth" />
+    <MESSAGE value="gitignore file commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore file commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="2452" y="99" width="912" height="907" key="CommitChangelistDialog2" timestamp="1603368560062">
+    <state x="2371" y="210" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603370357393">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2452" y="99" width="912" height="907" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1603368560062" />
-    <state x="2696" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1603366241414">
+    <state x="2371" y="210" width="1084" height="734" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1603370357393" />
+    <state x="2649" y="405" width="519" height="294" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1603371183566">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2696" y="310" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1603366241414" />
-    <state x="2402" y="187" key="SettingsEditor" timestamp="1603366204466">
+    <state x="2649" y="405" width="519" height="294" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1603371183566" />
+    <state x="2452" y="99" width="912" height="907" key="CommitChangelistDialog2" timestamp="1603368932574">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2402" y="187" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1603366204466" />
+    <state x="2452" y="99" width="912" height="907" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1603368932574" />
+    <state x="2696" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1603371035389">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2696" y="310" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1603371035389" />
+    <state width="1807" height="270" key="GridCell.Tab.0.bottom" timestamp="1603371590623">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="270" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1603371590623" />
+    <state width="1807" height="270" key="GridCell.Tab.0.center" timestamp="1603371590623">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="270" key="GridCell.Tab.0.center/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1603371590623" />
+    <state width="1807" height="270" key="GridCell.Tab.0.left" timestamp="1603371590623">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="270" key="GridCell.Tab.0.left/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1603371590623" />
+    <state width="1807" height="270" key="GridCell.Tab.0.right" timestamp="1603371590623">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1807" height="270" key="GridCell.Tab.0.right/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1603371590623" />
+    <state x="2499" y="356" width="819" height="507" key="NewModule_or_Project.wizard" timestamp="1603371075586">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2499" y="356" width="819" height="507" key="NewModule_or_Project.wizard/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1603371075586" />
+    <state x="2402" y="187" width="1024" height="845" key="SettingsEditor" timestamp="1603371576905">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2402" y="187" width="1024" height="845" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1603371576905" />
+    <state x="2508" y="274" width="800" height="556" key="Vcs.Push.Dialog.v2" timestamp="1603368939672">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2508" y="274" width="800" height="556" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1603368939672" />
   </component>
 </project>
