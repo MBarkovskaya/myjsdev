@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dbc5ba9-da1b-4e30-a9f8-055ddd26320f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Food_dist/css/spec.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Food_dist/js/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Food_dist/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/Food_dist/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,15 +70,15 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Food_dist" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/calc" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.ember-template-lint" value="true" />
     <property name="node.js.path.for.package.ember-template-lint" value="project" />
     <property name="node.js.selected.package.ember-template-lint" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
@@ -158,7 +154,14 @@
       <workItem from="1604750158909" duration="5979000" />
       <workItem from="1604824068564" duration="6934000" />
       <workItem from="1604900211665" duration="2595000" />
-      <workItem from="1604919859951" duration="5189000" />
+      <workItem from="1604919859951" duration="5437000" />
+      <workItem from="1605079323380" duration="599000" />
+      <workItem from="1605160309389" duration="599000" />
+      <workItem from="1605169840131" duration="4036000" />
+      <workItem from="1605196545264" duration="687000" />
+      <workItem from="1605255981450" duration="2425000" />
+      <workItem from="1605448521908" duration="556000" />
+      <workItem from="1605509251642" duration="8133000" />
     </task>
     <task id="LOCAL-00001" summary="smth">
       <created>1603368932667</created>
@@ -202,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604825353146</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Food_dist project 38 lesson">
+      <created>1604926291449</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604926291449</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,7 +236,8 @@
     <MESSAGE value="practice 4 (using object subject)" />
     <MESSAGE value="mDB project first lesson" />
     <MESSAGE value="mDB project 33 lesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="mDB project 33 lesson" />
+    <MESSAGE value="Food_dist project 38 lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="Food_dist project 38 lesson" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2542" y="234" width="732" height="637" key="#Inspections" timestamp="1603371706308">
@@ -247,17 +258,17 @@
     </state>
     <state x="729" y="422" width="519" height="316" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604830215284" />
     <state x="2649" y="405" width="519" height="294" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1603371183566" />
-    <state x="532" y="124" width="969" height="907" key="CommitChangelistDialog2" timestamp="1604825353028">
+    <state x="532" y="124" width="969" height="907" key="CommitChangelistDialog2" timestamp="1604926291348">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="532" y="124" width="969" height="907" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604825353028" />
+    <state x="532" y="124" width="969" height="907" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604926291348" />
     <state x="2452" y="99" width="912" height="907" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604672263496" />
-    <state x="776" y="329" width="424" height="585" key="FileChooserDialogImpl" timestamp="1604921191425">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="816" y="329" width="424" height="585" key="FileChooserDialogImpl" timestamp="1605537939857">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="776" y="329" width="424" height="585" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604921191425" />
     <state x="2696" y="310" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1603371035389" />
-    <state x="816" y="329" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1604645974369" />
+    <state x="816" y="329" width="424" height="585" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1605537939857" />
     <state width="1807" height="269" key="GridCell.Tab.0.bottom" timestamp="1604742399566">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
@@ -358,31 +369,37 @@
       <screen x="0" y="27" width="3840" height="1053" />
     </state>
     <state width="1874" height="337" key="GridCell.Tab.3.right/0.27.3840.1053@0.27.3840.1053" timestamp="1604655113946" />
-    <state x="579" y="374" width="819" height="507" key="NewModule_or_Project.wizard" timestamp="1604921201352">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="626" y="374" width="819" height="507" key="NewModule_or_Project.wizard" timestamp="1605537957969">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="579" y="374" key="NewModule_or_Project.wizard/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604921201352" />
     <state x="2499" y="356" width="819" height="507" key="NewModule_or_Project.wizard/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1603371075586" />
-    <state x="626" y="374" key="NewModule_or_Project.wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1604645986186" />
-    <state x="644" y="222" width="621" height="633" key="RollbackChangesDialog" timestamp="1604832992763">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="626" y="374" width="819" height="507" key="NewModule_or_Project.wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1605537957969" />
+    <state x="689" y="222" width="621" height="633" key="RollbackChangesDialog" timestamp="1605259136910">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="644" y="222" width="621" height="633" key="RollbackChangesDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604832992763" />
-    <state x="482" y="209" width="1024" height="845" key="SettingsEditor" timestamp="1604921208396">
-      <screen x="0" y="27" width="1920" height="1053" />
+    <state x="644" y="222" width="621" height="633" key="RollbackChangesDialog/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1605256192440" />
+    <state x="689" y="222" key="RollbackChangesDialog/1920.0.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1605259136910" />
+    <state x="532" y="209" width="1024" height="845" key="SettingsEditor" timestamp="1605537965781">
+      <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="482" y="209" width="1024" height="845" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604921208396" />
     <state x="2402" y="187" width="1024" height="845" key="SettingsEditor/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1603371576905" />
-    <state x="532" y="209" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1604646003169" />
-    <state x="588" y="294" width="800" height="556" key="Vcs.Push.Dialog.v2" timestamp="1604825355947">
+    <state x="532" y="209" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1605537965781" />
+    <state x="588" y="294" width="800" height="556" key="Vcs.Push.Dialog.v2" timestamp="1604926294073">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="588" y="294" width="800" height="556" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604825355947" />
+    <state x="588" y="294" width="800" height="556" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1604926294073" />
     <state x="2508" y="274" width="800" height="556" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.27.1920.1053@1920.0.1920.1080" timestamp="1604672269163" />
-    <state x="167" y="125" width="1653" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1604752978790">
+    <state x="167" y="125" width="1653" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605280793114">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
+    <state x="167" y="125" width="1653" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.0.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1605280793114" />
     <state x="167" y="125" width="1653" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1604752978790" />
+    <state x="353" y="358" width="1372" height="547" key="new project wizard" timestamp="1605537930418">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="353" y="358" width="1372" height="547" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1605537930418" />
     <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1604751424925">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
